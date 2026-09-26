@@ -47,4 +47,3 @@ The project focuses on website structure, visual design, navigation, content pre
 
 ![About Us](Sreenshots/about%20us.png)
 
-![Services](Screenshots/services.png)
