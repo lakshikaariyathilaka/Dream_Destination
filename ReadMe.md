@@ -35,14 +35,14 @@ The project focuses on website structure, visual design, navigation, content pre
 
 ![Home Page](Screenshots/home.png)
 
-### About us 
+### About Us
 
-![About us](Screenshots/about us.png)
+![About Us](Screenshots/about%20us.png)
 
 ### Contact
 
-![Contact](Screenshots/Contact us.png)
+![Contact](Screenshots/Contact%20us.png)
 
 ### Services
 
-![Services](Screenshots/Services.png)
+![Services](Screenshots/services.png)
